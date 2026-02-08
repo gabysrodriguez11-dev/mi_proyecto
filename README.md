@@ -20,11 +20,8 @@ En esta sección se encuentran los materiales correspondientes a la primera sema
 
 Carpeta **SEMANA_1**:
 
-- **ejercicio1.py** — Ejercicios básicos de programación en Python
-- **Diagramas.docx** — Diagramas de flujo de los algoritmos
-- **Procedimiento.docx** — Explicación paso a paso de la solución
-- **diagnostica.py** — Ejercicio de diagnóstico en Python
-- **segundo_ejercicio.py** — Implementación del segundo ejercicio propuesto
+- **ejercicio1.py** 
+- **Diagrama.docx** — Diagramas de flujo de los algoritmos
 
 ## Tecnologías utilizadas
 
