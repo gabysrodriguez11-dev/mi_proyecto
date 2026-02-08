@@ -7,7 +7,7 @@ Repositorio de actividades correspondientes al curso de Diseño de datos y algor
 
 ## Descripción
 
-Este repositorio contiene los archivos desarrollados durante la primera semana del curso, incluyendo ejercicios de programación en Python, diagramas de solución y la documentación del procedimiento utilizado para resolver los problemas planteados.
+Este repositorio contiene los archivos desarrollados durante la primera semana del curso, incluyendo ejercicios de programación en Python, diagramas de solución.
 
 El objetivo de esta entrega es reforzar el pensamiento algorítmico, la construcción de diagramas de flujo y la implementación de soluciones básicas en Python.
 
