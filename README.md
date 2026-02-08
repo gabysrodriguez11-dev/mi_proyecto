@@ -1,7 +1,6 @@
 # Proyecto de Aprendizaje - Semana 1
 
-Repositorio de actividades correspondientes al curso de Programación y Análisis de Algoritmos.
-
+Repositorio de actividades correspondientes al curso de Diseño de datos y algoritmos.
 ## Autor
 
 **Gaby Rodríguez**
