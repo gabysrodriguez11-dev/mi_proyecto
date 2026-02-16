@@ -1,33 +1,47 @@
-# Proyecto de Aprendizaje - Semana 1
-
-Repositorio de actividades correspondientes al curso de Diseño de datos y algoritmos.
-## Autor
-
-**Gaby Rodríguez**
-
+## Diseño de Datos y Algoritmos
+Repositorio dedicado a los trabajos y ejercicios desarrollados en la asignatura Diseño de Datos y Algoritmos (DDYA).
+Aquí se documenta el proceso de aprendizaje progresivo desde conceptos básicos hasta técnicas avanzadas
+ 
 ## Descripción
 
-Este repositorio contiene los archivos desarrollados durante la primera semana del curso, incluyendo ejercicios de programación en Python, diagramas de solución.
+Este repositorio contiene el desarrollo práctico y teórico realizado durante el curso, incluyendo:
 
-El objetivo de esta entrega es reforzar el pensamiento algorítmico, la construcción de diagramas de flujo y la implementación de soluciones básicas en Python.
+Ejercicios de clase
 
-## Semana 1
+Implementaciones en Python
 
-En esta sección se encuentran los materiales correspondientes a la primera semana de trabajo del curso, donde se desarrollan ejercicios introductorios de programación y representación de algoritmos.
+Diagramas (flujo, secuencia, casos de uso)
 
-## Contenido del repositorio
+Análisis de complejidad
 
-Carpeta **SEMANA_1**:
+Aplicación de estrategias algorítmicas
 
-- **ejercicio1.py** 
-- **Diagrama.docx** — Diagramas de flujo de los algoritmos
+El objetivo principal es fortalecer la lógica de programación, el análisis de algoritmos y la comprensión de su eficiencia.
 
-## Tecnologías utilizadas
 
-- Python 3
-- Microsoft Word
-- GitHub
+## Desarrollo por semanas
+Semana 1 – Fundamentos
+  -Introducción a la materia
+  -Ejercicios básicos de lógica
+  -Elaboración de diagramas de flujo
+  -Modelado inicial de problemas
+  -Se trabajó principalmente en entender cómo estructurar soluciones antes de programarlas.
 
-## Notas
+Semana 2 – Ordenamiento y Diagramación
+  -Implementación del algoritmo Insertion Sort
+  -Análisis paso a paso del ordenamiento
+  -Fortalecimiento de:
+     -Diagramas de flujo
+  -Mejor organización del repositorio
+Aquí se comenzó a analizar formalmente la eficiencia de los algoritmos.
 
-Este README se actualizará a medida que se agreguen nuevas semanas y actividades del curso.
+Semana 3 – Divide y Conquista
+
+  -Implementación de algoritmos usando Divide y Conquista
+  -Aplicación práctica de:
+     -Merge Sort
+     -Problema de estudiantes con recursión
+     -Suma de bits
+     -Análisis formal con Teorema Maestro
+     -Evaluación de complejidad temporal
+En esta semana se profundizó en la recursión y el análisis matemático del tiempo de ejecución.
