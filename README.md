@@ -42,7 +42,7 @@ Semana 2 – Ordenamiento y Diagramación
   
   -Fortalecimiento de:
   
-     -Diagramas de flujo
+     - Diagramas de flujo
      
   -Mejor organización del repositorio
   
@@ -55,14 +55,14 @@ Semana 3 – Divide y Conquista
   
   -Aplicación práctica de:
   
-     -Merge Sort
+     - Merge Sort
      
-     -Problema de estudiantes con recursión
+     - Problema de estudiantes con recursión
      
-     -Suma de bits
+     - Suma de bits
      
-     -Análisis formal con Teorema Maestro
+     - Análisis formal con Teorema Maestro
      
-     -Evaluación de complejidad temporal
+     - Evaluación de complejidad temporal
      
 En esta semana se profundizó en la recursión y el análisis matemático del tiempo de ejecución.
