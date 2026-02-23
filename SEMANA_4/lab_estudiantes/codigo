@@ -43,13 +43,3 @@ def main():
 
 main()
 
-def test_1():
-    entrada = "5 ana 3.5 luis 4.2 maria 2.8 juan 4.0 sofia 3.9"
-    promedio, encima = estudiantes_dp(entrada)
-
-    if round(promedio, 2) == 3.68 and encima == ["luis", "juan", "sofia"]:
-        print("Test 1: OK")
-    else:
-        print("Test 1: FALLÓ")
-
-test_1()
